@@ -93,7 +93,9 @@ a {
     color: green !important;
 }
 
-
+#writings, #contact {
+        margin-top: 20px;
+}
 
 #contact{
     background:lightgray;
